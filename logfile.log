@@ -1,0 +1,397 @@
+2015-05-14 14:47:54,117 INFO  [Log] Openign the browser with the given URL 
+2015-05-14 14:47:54,411 INFO  [Log] **************************************************************************************** 
+2015-05-14 14:47:54,411 INFO  [Log] **************************************************************************************** 
+2015-05-14 14:47:54,411 INFO  [Log]                                sTestCaseName                                        
+2015-05-14 14:47:54,411 INFO  [Log] **************************************************************************************** 
+2015-05-14 14:47:54,411 INFO  [Log] **************************************************************************************** 
+2015-05-14 14:47:54,643 INFO  [Log] Clicking on SignIn link 
+2015-05-14 14:47:57,434 INFO  [Log] Entering an email to register 
+2015-05-14 14:47:57,434 INFO  [Log] It is a new Email 
+2015-05-14 14:47:57,902 INFO  [Log] Clicking on Register button 
+2015-05-14 14:47:59,884 INFO  [Log] Clicked on Title radio button 
+2015-05-14 14:48:00,073 INFO  [Log] Enterd first name in the text field 
+2015-05-14 14:48:00,726 INFO  [Log] Enterd last name in the text field 
+2015-05-14 14:48:00,899 INFO  [Log] Enterd password in the text field 
+2015-05-14 14:48:01,479 INFO  [Log] Selecting days for Date of birth form the Dropdown 
+2015-05-14 14:48:32,281 INFO  [Log] Selecting Months for Date of birth form the Dropdown 
+2015-05-14 14:49:03,156 INFO  [Log] Selecting Years for Date of birth form the Dropdown 
+2015-05-14 14:49:03,422 INFO  [Log] Entering company name for shipping details 
+2015-05-14 14:49:03,595 INFO  [Log] Entering address1 for shipping details 
+2015-05-14 14:49:03,766 INFO  [Log] Entering address2 for shipping details 
+2015-05-14 14:49:03,939 INFO  [Log] Entering city for shipping details 
+2015-05-14 14:49:04,522 INFO  [Log] Entering state for shipping details 
+2015-05-14 14:49:04,694 INFO  [Log] Entering zip code for shipping details 
+2015-05-14 14:49:05,074 INFO  [Log] Entering country for shipping details 
+2015-05-14 14:49:05,227 INFO  [Log] Entering Mobile Number for shipping details 
+2015-05-14 14:49:05,390 INFO  [Log] Entering alias address for shipping details 
+2015-05-14 14:49:11,090 INFO  [Log] Clicking on Register button 
+2015-05-14 14:49:13,976 INFO  [Log] Logout form the application 
+2015-05-14 14:49:13,976 INFO  [Log] SignOutAction perform successfully 
+2015-05-14 14:49:16,272 INFO  [Log] Click action is perfromed on My Account link 
+2015-05-14 14:49:16,514 INFO  [Log]  entered in UserName text box 
+2015-05-14 14:49:16,713 INFO  [Log]  entered in Password text box 
+2015-05-14 14:49:19,421 INFO  [Log] Click action is performed on Submit button 
+2015-05-14 14:49:20,422 INFO  [Log] Login successfully 
+2015-05-14 14:49:20,422 INFO  [Log] SignInAction performed succesfully 
+2015-05-14 14:49:20,894 INFO  [Log] Moving to product listing page by clicking on the submenu 
+2015-05-14 14:49:24,972 INFO  [Log] Adding a product to cart done successfully 
+2015-05-14 14:49:25,141 INFO  [Log] Adding a product to cart 
+2015-05-14 14:49:28,400 INFO  [Log] purchesing the seleted product 
+2015-05-14 14:49:30,420 INFO  [Log] proceedToCheckOutInSummaryPage 
+2015-05-14 14:49:32,461 INFO  [Log] proceedToCheckOutInAddressDetailPage 
+2015-05-14 14:49:34,508 INFO  [Log] proceedTOCheckOutConfirmShippingPage 
+2015-05-14 14:49:36,035 INFO  [Log] payByCheque 
+2015-05-14 14:49:38,364 INFO  [Log] iConfirmMyOrder 
+2015-05-14 14:49:41,969 INFO  [Log] Clicking on SignOut button 
+2015-05-14 14:49:41,969 INFO  [Log] PurcheseActio perform successfully 
+2015-05-14 14:49:44,970 INFO  [Log] clickOnLogo element is found 
+2015-05-14 14:49:45,499 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-14 14:49:48,697 INFO  [Log] sendToAFriend element is found 
+2015-05-14 14:49:49,124 INFO  [Log] friendName is found 
+2015-05-14 14:49:49,306 INFO  [Log] friendEmail element is found 
+2015-05-14 14:49:49,520 INFO  [Log] cancel element is found 
+2015-05-14 14:49:50,057 INFO  [Log] Increasing the product quantity 
+2015-05-14 14:49:50,230 INFO  [Log] Increasing the product quantity 
+2015-05-14 14:49:50,230 INFO  [Log] increaseQuantity element is found 
+2015-05-14 14:49:50,422 INFO  [Log] Decreasing the product quantity 
+2015-05-14 14:49:50,422 INFO  [Log] decreaseQuantity element is found 
+2015-05-14 14:49:50,807 INFO  [Log] dropDownField element is found 
+2015-05-14 14:49:51,018 INFO  [Log] addToCart element is found 
+2015-05-14 14:49:52,012 INFO  [Log] proceedToChekOutInProductDetailPage element is found 
+2015-05-14 14:49:55,638 INFO  [Log] proceedToCheckOutInSummaryPage element found 
+2015-05-14 14:49:55,877 INFO  [Log] enterEmail element found 
+2015-05-14 14:49:56,087 INFO  [Log] enterPassword element found 
+2015-05-14 14:49:58,484 INFO  [Log] signin_button element is found 
+2015-05-14 14:50:00,068 INFO  [Log] proceedToCheckOutInAddressDetailPage element is found 
+2015-05-14 14:50:00,335 INFO  [Log] agreeTermsOfServices element found 
+2015-05-14 14:50:01,917 INFO  [Log] proceedTOCheckOutConfirmShippingPage element is found 
+2015-05-14 14:50:03,565 INFO  [Log] payByCheque element is found 
+2015-05-14 14:50:06,015 INFO  [Log] iConfirmMyOrder element is found 
+2015-05-14 14:50:06,016 INFO  [Log] Order complete successfully 
+2015-05-14 14:50:06,016 INFO  [Log] PurcheseFormHomePageAction done successfully 
+2015-05-14 14:50:08,896 INFO  [Log] clickOnLogo element is found 
+2015-05-14 14:50:09,453 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-14 14:50:10,656 INFO  [Log] Continue Shopping 
+2015-05-14 14:50:11,166 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-14 14:50:12,163 INFO  [Log] Continue Shopping 
+2015-05-14 14:50:13,246 INFO  [Log] Selected product titiel is------> Faded Short Sleeve T-shirts 
+2015-05-14 14:50:13,246 INFO  [Log] Product title in cart------>Faded Short Sleeve T-shirts 
+2015-05-14 14:50:13,246 INFO  [Log] product Title Matches 
+2015-05-14 14:50:13,246 INFO  [Log] Comparision of title is done successfully 
+2015-05-14 14:50:13,376 INFO  [Log] The prices of individual item is --->16.51 
+2015-05-14 14:50:13,444 INFO  [Log] The prices of individual item is --->27.0 
+2015-05-14 14:50:13,444 INFO  [Log] totalPrice is -->43.510002 
+2015-05-14 14:50:13,451 INFO  [Log] The expected price is-->45.51 
+2015-05-14 14:50:13,570 INFO  [Log] The Actual price is-->45.51 
+2015-05-14 14:50:13,570 INFO  [Log] The summation of price is done correctly 
+2015-05-14 14:50:13,570 INFO  [Log] **************************************************************************************** 
+2015-05-14 14:50:13,570 INFO  [Log] **************************************************************************************** 
+2015-05-14 14:50:13,570 INFO  [Log] $$$$$$$$$$$$$$$$$$             E------N------D                $$$$$$$$$$$$$$$$$$$ 
+2015-05-14 14:50:13,570 INFO  [Log] **************************************************************************************** 
+2015-05-14 14:50:13,570 INFO  [Log] **************************************************************************************** 
+2015-05-14 14:50:13,570 INFO  [Log] SelectedItemOnCartAction done successfully 
+2015-05-14 14:50:16,298 INFO  [Log] Closing the browser 
+2015-05-17 12:02:33,552 INFO  [Log] Openign the browser with the given URL 
+2015-05-17 12:02:34,080 INFO  [Log] **************************************************************************************** 
+2015-05-17 12:02:34,080 INFO  [Log] **************************************************************************************** 
+2015-05-17 12:02:34,080 INFO  [Log]                                sTestCaseName                                        
+2015-05-17 12:02:34,080 INFO  [Log] **************************************************************************************** 
+2015-05-17 12:02:34,080 INFO  [Log] **************************************************************************************** 
+2015-05-17 12:02:34,455 INFO  [Log] Clicking on SignIn link 
+2015-05-17 12:08:10,797 INFO  [Log] Entering an email to register 
+2015-05-17 12:08:10,797 INFO  [Log] It is a new Email 
+2015-05-17 12:08:11,172 INFO  [Log] Clicking on Register button 
+2015-05-17 12:08:13,015 INFO  [Log] Clicked on Title radio button 
+2015-05-17 12:08:13,631 INFO  [Log] Enterd first name in the text field 
+2015-05-17 12:08:14,131 INFO  [Log] Enterd last name in the text field 
+2015-05-17 12:08:14,381 INFO  [Log] Enterd password in the text field 
+2015-05-17 12:08:15,100 INFO  [Log] Selecting days for Date of birth form the Dropdown 
+2015-05-17 12:08:46,115 INFO  [Log] Selecting Months for Date of birth form the Dropdown 
+2015-05-17 12:09:17,314 INFO  [Log] Selecting Years for Date of birth form the Dropdown 
+2015-05-17 12:09:17,626 INFO  [Log] Entering company name for shipping details 
+2015-05-17 12:09:17,829 INFO  [Log] Entering address1 for shipping details 
+2015-05-17 12:09:18,079 INFO  [Log] Entering address2 for shipping details 
+2015-05-17 12:09:18,345 INFO  [Log] Entering city for shipping details 
+2015-05-17 12:09:19,048 INFO  [Log] Entering state for shipping details 
+2015-05-17 12:09:19,235 INFO  [Log] Entering zip code for shipping details 
+2015-05-17 12:09:19,689 INFO  [Log] Entering country for shipping details 
+2015-05-17 12:09:19,907 INFO  [Log] Entering Mobile Number for shipping details 
+2015-05-17 12:09:20,146 INFO  [Log] Entering alias address for shipping details 
+2015-05-17 12:09:23,197 INFO  [Log] Clicking on Register button 
+2015-05-17 12:09:23,447 INFO  [Log] Logout form the application 
+2015-05-17 12:09:23,447 INFO  [Log] SignOutAction perform successfully 
+2015-05-17 12:09:25,858 INFO  [Log] Click action is perfromed on My Account link 
+2015-05-17 12:09:27,968 INFO  [Log]  entered in UserName text box 
+2015-05-17 12:09:28,233 INFO  [Log]  entered in Password text box 
+2015-05-17 12:09:30,218 INFO  [Log] Click action is performed on Submit button 
+2015-05-17 12:09:31,221 INFO  [Log] Login successfully 
+2015-05-17 12:09:31,221 INFO  [Log] SignInAction performed succesfully 
+2015-05-17 12:09:31,795 INFO  [Log] Moving to product listing page by clicking on the submenu 
+2015-05-17 12:09:38,390 INFO  [Log] Adding a product to cart done successfully 
+2015-05-17 12:09:38,609 INFO  [Log] Adding a product to cart 
+2015-05-17 12:09:39,343 INFO  [Log] purchesing the seleted product 
+2015-05-17 12:09:42,454 INFO  [Log] proceedToCheckOutInSummaryPage 
+2015-05-17 12:09:45,782 INFO  [Log] proceedToCheckOutInAddressDetailPage 
+2015-05-17 12:09:47,776 INFO  [Log] proceedTOCheckOutConfirmShippingPage 
+2015-05-17 12:09:48,026 INFO  [Log] payByCheque 
+2015-05-17 12:09:51,721 INFO  [Log] iConfirmMyOrder 
+2015-05-17 12:09:51,979 INFO  [Log] Clicking on SignOut button 
+2015-05-17 12:09:51,979 INFO  [Log] PurcheseActio perform successfully 
+2015-05-17 12:09:55,593 INFO  [Log] clickOnLogo element is found 
+2015-05-17 12:09:58,890 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-17 12:10:03,058 INFO  [Log] sendToAFriend element is found 
+2015-05-17 12:10:03,606 INFO  [Log] friendName is found 
+2015-05-17 12:10:03,933 INFO  [Log] friendEmail element is found 
+2015-05-17 12:10:04,214 INFO  [Log] cancel element is found 
+2015-05-17 12:10:04,943 INFO  [Log] Increasing the product quantity 
+2015-05-17 12:10:05,177 INFO  [Log] Increasing the product quantity 
+2015-05-17 12:10:05,177 INFO  [Log] increaseQuantity element is found 
+2015-05-17 12:10:05,412 INFO  [Log] Decreasing the product quantity 
+2015-05-17 12:10:05,412 INFO  [Log] decreaseQuantity element is found 
+2015-05-17 12:10:05,896 INFO  [Log] dropDownField element is found 
+2015-05-17 12:10:06,215 INFO  [Log] addToCart element is found 
+2015-05-17 12:10:07,649 INFO  [Log] proceedToChekOutInProductDetailPage element is found 
+2015-05-17 12:10:11,391 INFO  [Log] proceedToCheckOutInSummaryPage element found 
+2015-05-17 12:10:11,625 INFO  [Log] enterEmail element found 
+2015-05-17 12:10:12,008 INFO  [Log] enterPassword element found 
+2015-05-17 12:10:14,459 INFO  [Log] signin_button element is found 
+2015-05-17 12:10:16,060 INFO  [Log] proceedToCheckOutInAddressDetailPage element is found 
+2015-05-17 12:10:16,341 INFO  [Log] agreeTermsOfServices element found 
+2015-05-17 12:10:17,885 INFO  [Log] proceedTOCheckOutConfirmShippingPage element is found 
+2015-05-17 12:10:18,151 INFO  [Log] payByCheque element is found 
+2015-05-17 12:10:21,328 INFO  [Log] iConfirmMyOrder element is found 
+2015-05-17 12:10:21,328 INFO  [Log] Order complete successfully 
+2015-05-17 12:10:21,328 INFO  [Log] PurcheseFormHomePageAction done successfully 
+2015-05-17 12:10:21,562 INFO  [Log] clickOnLogo element is found 
+2015-05-17 12:10:24,876 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-17 12:10:26,039 INFO  [Log] Continue Shopping 
+2015-05-17 12:10:26,586 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-17 12:10:27,429 INFO  [Log] Continue Shopping 
+2015-05-17 12:10:28,570 INFO  [Log] Selected product titiel is------> Faded Short Sleeve T-shirts 
+2015-05-17 12:10:28,570 INFO  [Log] Product title in cart------>Faded Short Sleeve T-shirts 
+2015-05-17 12:10:28,570 INFO  [Log] product Title Matches 
+2015-05-17 12:10:28,570 INFO  [Log] Comparision of title is done successfully 
+2015-05-17 12:10:28,742 INFO  [Log] The prices of individual item is --->16.51 
+2015-05-17 12:10:28,862 INFO  [Log] The prices of individual item is --->27.0 
+2015-05-17 12:10:28,862 INFO  [Log] totalPrice is -->43.510002 
+2015-05-17 12:10:28,892 INFO  [Log] The expected price is-->45.51 
+2015-05-17 12:10:29,096 INFO  [Log] The Actual price is-->45.51 
+2015-05-17 12:10:29,096 INFO  [Log] The summation of price is done correctly 
+2015-05-17 12:10:29,096 INFO  [Log] **************************************************************************************** 
+2015-05-17 12:10:29,096 INFO  [Log] **************************************************************************************** 
+2015-05-17 12:10:29,096 INFO  [Log] $$$$$$$$$$$$$$$$$$             E------N------D                $$$$$$$$$$$$$$$$$$$ 
+2015-05-17 12:10:29,096 INFO  [Log] **************************************************************************************** 
+2015-05-17 12:10:29,096 INFO  [Log] **************************************************************************************** 
+2015-05-17 12:10:29,096 INFO  [Log] SelectedItemOnCartAction done successfully 
+2015-05-17 12:10:34,155 INFO  [Log] Closing the browser 
+2015-05-28 21:21:29,933 INFO  [Log] Openign the browser with the given URL 
+2015-05-28 21:21:30,433 INFO  [Log] **************************************************************************************** 
+2015-05-28 21:21:30,433 INFO  [Log] **************************************************************************************** 
+2015-05-28 21:21:30,433 INFO  [Log]                                sTestCaseName                                        
+2015-05-28 21:21:30,433 INFO  [Log] **************************************************************************************** 
+2015-05-28 21:21:30,433 INFO  [Log] **************************************************************************************** 
+2015-05-28 21:21:30,699 INFO  [Log] Clicking on SignIn link 
+2015-05-28 21:21:33,730 INFO  [Log] Entering an email to register 
+2015-05-28 21:21:33,730 INFO  [Log] It is a new Email 
+2015-05-28 21:21:34,558 INFO  [Log] Clicking on Register button 
+2015-05-28 21:21:37,215 INFO  [Log] Clicked on Title radio button 
+2015-05-28 21:21:37,449 INFO  [Log] Enterd first name in the text field 
+2015-05-28 21:21:38,293 INFO  [Log] Enterd last name in the text field 
+2015-05-28 21:21:38,496 INFO  [Log] Enterd password in the text field 
+2015-05-28 21:21:39,152 INFO  [Log] Selecting days for Date of birth form the Dropdown 
+2015-05-28 21:22:10,098 INFO  [Log] Selecting Months for Date of birth form the Dropdown 
+2015-05-28 21:22:41,026 INFO  [Log] Selecting Years for Date of birth form the Dropdown 
+2015-05-28 21:22:41,355 INFO  [Log] Entering company name for shipping details 
+2015-05-28 21:22:41,573 INFO  [Log] Entering address1 for shipping details 
+2015-05-28 21:22:41,776 INFO  [Log] Entering address2 for shipping details 
+2015-05-28 21:22:41,980 INFO  [Log] Entering city for shipping details 
+2015-05-28 21:22:42,620 INFO  [Log] Entering state for shipping details 
+2015-05-28 21:22:42,808 INFO  [Log] Entering zip code for shipping details 
+2015-05-28 21:22:43,245 INFO  [Log] Entering country for shipping details 
+2015-05-28 21:22:43,433 INFO  [Log] Entering Mobile Number for shipping details 
+2015-05-28 21:22:43,620 INFO  [Log] Entering alias address for shipping details 
+2015-05-28 21:22:48,058 INFO  [Log] Clicking on Register button 
+2015-05-28 21:22:51,008 INFO  [Log] Logout form the application 
+2015-05-28 21:22:51,008 INFO  [Log] SignOutAction perform successfully 
+2015-05-28 21:22:51,336 INFO  [Log] Click action is perfromed on My Account link 
+2015-05-28 21:22:53,461 INFO  [Log]  entered in UserName text box 
+2015-05-28 21:22:53,695 INFO  [Log]  entered in Password text box 
+2015-05-28 21:22:56,414 INFO  [Log] Click action is performed on Submit button 
+2015-05-28 21:22:57,414 INFO  [Log] Login successfully 
+2015-05-28 21:22:57,414 INFO  [Log] SignInAction performed succesfully 
+2015-05-28 21:22:57,976 INFO  [Log] Moving to product listing page by clicking on the submenu 
+2015-05-28 21:23:04,492 INFO  [Log] Adding a product to cart done successfully 
+2015-05-28 21:23:04,680 INFO  [Log] Adding a product to cart 
+2015-05-28 21:23:06,523 INFO  [Log] purchesing the seleted product 
+2015-05-28 21:23:09,336 INFO  [Log] proceedToCheckOutInSummaryPage 
+2015-05-28 21:23:13,899 INFO  [Log] proceedToCheckOutInAddressDetailPage 
+2015-05-28 21:23:16,727 INFO  [Log] proceedTOCheckOutConfirmShippingPage 
+2015-05-28 21:23:16,945 INFO  [Log] payByCheque 
+2015-05-28 21:23:21,133 INFO  [Log] iConfirmMyOrder 
+2015-05-28 21:23:21,399 INFO  [Log] Clicking on SignOut button 
+2015-05-28 21:23:21,399 INFO  [Log] PurcheseActio perform successfully 
+2015-05-28 21:23:25,996 INFO  [Log] Closing the browser 
+2015-05-28 21:27:24,435 INFO  [Log] Openign the browser with the given URL 
+2015-05-28 21:27:25,075 INFO  [Log] clickOnLogo element is found 
+2015-05-28 21:27:39,170 INFO  [Log] We did not move to product detail page 
+2015-05-28 21:27:39,170 INFO  [Log] PurcheseFormHomePageAction not done successfully 
+2015-05-28 21:27:40,237 INFO  [Log] clickOnLogo element is not found 
+2015-05-28 21:27:40,237 INFO  [Log] SelectedItemOnCartAction not done successfully  
+2015-05-28 21:27:41,268 INFO  [Log] Contact Us not found 
+2015-05-28 21:27:42,284 INFO  [Log] Subject Heading drop Down not found 
+2015-05-28 21:28:46,671 INFO  [Log] Openign the browser with the given URL 
+2015-05-28 21:28:47,468 INFO  [Log] clickOnLogo element is found 
+2015-05-28 21:28:50,921 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-28 21:28:54,859 INFO  [Log] sendToAFriend element is found 
+2015-05-28 21:28:55,328 INFO  [Log] friendName is found 
+2015-05-28 21:28:56,078 INFO  [Log] friendEmail element is found 
+2015-05-28 21:28:56,312 INFO  [Log] cancel element is found 
+2015-05-28 21:28:56,921 INFO  [Log] Increasing the product quantity 
+2015-05-28 21:28:57,156 INFO  [Log] Increasing the product quantity 
+2015-05-28 21:28:57,156 INFO  [Log] increaseQuantity element is found 
+2015-05-28 21:28:57,375 INFO  [Log] Decreasing the product quantity 
+2015-05-28 21:28:57,375 INFO  [Log] decreaseQuantity element is found 
+2015-05-28 21:28:57,781 INFO  [Log] dropDownField element is found 
+2015-05-28 21:28:58,000 INFO  [Log] addToCart element is found 
+2015-05-28 21:28:59,750 INFO  [Log] proceedToChekOutInProductDetailPage element is found 
+2015-05-28 21:29:02,750 INFO  [Log] proceedToCheckOutInSummaryPage element found 
+2015-05-28 21:29:06,531 INFO  [Log] enterEmail element found 
+2015-05-28 21:29:06,750 INFO  [Log] enterPassword element found 
+2015-05-28 21:29:09,390 INFO  [Log] signin_button element is found 
+2015-05-28 21:29:39,530 INFO  [Log] proceedToCheckOutInAddressDetailPage element is not found 
+2015-05-28 21:30:09,570 INFO  [Log] agreeTermsOfServices element is not found 
+2015-05-28 21:30:39,774 INFO  [Log] proceedTOCheckOutConfirmShippingPage element is not found 
+2015-05-28 21:31:09,942 INFO  [Log] payByCheque element is not found 
+2015-05-28 21:31:40,098 INFO  [Log] iConfirmMyOrder element is not found 
+2015-05-28 21:31:40,098 INFO  [Log] Order complete successfully 
+2015-05-28 21:31:40,098 INFO  [Log] PurcheseFormHomePageAction done successfully 
+2015-05-28 21:31:45,411 INFO  [Log] clickOnLogo element is found 
+2015-05-28 21:31:45,989 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-28 21:31:47,474 INFO  [Log] Continue Shopping 
+2015-05-28 21:31:48,145 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-28 21:31:49,708 INFO  [Log] Continue Shopping 
+2015-05-28 21:31:51,677 INFO  [Log] Selected product titiel is------> Faded Short Sleeve T-shirts 
+2015-05-28 21:31:51,677 INFO  [Log] Product title in cart------>Faded Short Sleeve T-shirts 
+2015-05-28 21:31:51,677 INFO  [Log] product Title Matches 
+2015-05-28 21:31:51,677 INFO  [Log] Comparision of title is done successfully 
+2015-05-28 21:31:51,817 INFO  [Log] The prices of individual item is --->49.53 
+2015-05-28 21:31:51,880 INFO  [Log] The prices of individual item is --->27.0 
+2015-05-28 21:31:51,880 INFO  [Log] totalPrice is -->76.53 
+2015-05-28 21:31:51,892 INFO  [Log] The expected price is-->78.52 
+2015-05-28 21:31:52,017 INFO  [Log] The Actual price is-->78.53 
+2015-05-28 21:31:52,017 INFO  [Log] The summation of price is done correctly 
+2015-05-28 21:31:52,017 INFO  [Log] **************************************************************************************** 
+2015-05-28 21:31:52,017 INFO  [Log] **************************************************************************************** 
+2015-05-28 21:31:52,017 INFO  [Log] $$$$$$$$$$$$$$$$$$             E------N------D                $$$$$$$$$$$$$$$$$$$ 
+2015-05-28 21:31:52,017 INFO  [Log] **************************************************************************************** 
+2015-05-28 21:31:52,017 INFO  [Log] **************************************************************************************** 
+2015-05-28 21:31:52,017 INFO  [Log] SelectedItemOnCartAction done successfully 
+2015-05-28 21:31:52,267 INFO  [Log] Clicking on Contact us link 
+2015-05-28 21:31:54,939 INFO  [Log] Selecting value from Drop Down 
+2015-05-28 21:31:55,173 INFO  [Log] Sending values to emai 
+2015-05-28 21:31:55,407 INFO  [Log] Sending Order Id 
+2015-05-28 21:31:55,798 INFO  [Log] Message area found 
+2015-05-28 21:31:57,892 INFO  [Log] Submit button found 
+2015-05-28 21:31:57,892 INFO  [Log] Contact Details had been submitted successfully 
+2015-05-28 21:31:58,916 INFO  [Log] Closing the browser 
+2015-05-31 11:04:03,182 INFO  [Log] Openign the browser with the given URL 
+2015-05-31 11:04:03,947 INFO  [Log] **************************************************************************************** 
+2015-05-31 11:04:03,947 INFO  [Log] **************************************************************************************** 
+2015-05-31 11:04:03,947 INFO  [Log]                                sTestCaseName                                        
+2015-05-31 11:04:03,947 INFO  [Log] **************************************************************************************** 
+2015-05-31 11:04:03,947 INFO  [Log] **************************************************************************************** 
+2015-05-31 11:04:04,291 INFO  [Log] Clicking on SignIn link 
+2015-05-31 11:04:06,603 INFO  [Log] Entering an email to register 
+2015-05-31 11:04:06,603 INFO  [Log] It is a new Email 
+2015-05-31 11:04:07,463 INFO  [Log] Clicking on Register button 
+2015-05-31 11:04:09,302 INFO  [Log] Clicked on Title radio button 
+2015-05-31 11:04:09,521 INFO  [Log] Enterd first name in the text field 
+2015-05-31 11:04:10,287 INFO  [Log] Enterd last name in the text field 
+2015-05-31 11:04:10,490 INFO  [Log] Enterd password in the text field 
+2015-05-31 11:04:11,224 INFO  [Log] Selecting days for Date of birth form the Dropdown 
+2015-05-31 11:04:42,248 INFO  [Log] Selecting Months for Date of birth form the Dropdown 
+2015-05-31 11:05:13,216 INFO  [Log] Selecting Years for Date of birth form the Dropdown 
+2015-05-31 11:05:13,638 INFO  [Log] Entering company name for shipping details 
+2015-05-31 11:05:13,872 INFO  [Log] Entering address1 for shipping details 
+2015-05-31 11:05:14,091 INFO  [Log] Entering address2 for shipping details 
+2015-05-31 11:05:14,325 INFO  [Log] Entering city for shipping details 
+2015-05-31 11:05:15,044 INFO  [Log] Entering state for shipping details 
+2015-05-31 11:05:15,294 INFO  [Log] Entering zip code for shipping details 
+2015-05-31 11:05:15,716 INFO  [Log] Entering country for shipping details 
+2015-05-31 11:05:15,904 INFO  [Log] Entering Mobile Number for shipping details 
+2015-05-31 11:05:16,185 INFO  [Log] Entering alias address for shipping details 
+2015-05-31 11:05:18,669 INFO  [Log] Clicking on Register button 
+2015-05-31 11:05:18,904 INFO  [Log] Logout form the application 
+2015-05-31 11:05:18,904 INFO  [Log] SignOutAction perform successfully 
+2015-05-31 11:05:21,366 INFO  [Log] Click action is perfromed on My Account link 
+2015-05-31 11:05:23,194 INFO  [Log]  entered in UserName text box 
+2015-05-31 11:05:23,460 INFO  [Log]  entered in Password text box 
+2015-05-31 11:05:25,428 INFO  [Log] Click action is performed on Submit button 
+2015-05-31 11:05:26,428 INFO  [Log] Login successfully 
+2015-05-31 11:05:26,428 INFO  [Log] SignInAction performed succesfully 
+2015-05-31 11:05:27,038 INFO  [Log] Moving to product listing page by clicking on the submenu 
+2015-05-31 11:05:31,106 INFO  [Log] Adding a product to cart done successfully 
+2015-05-31 11:05:31,325 INFO  [Log] Adding a product to cart 
+2015-05-31 11:05:32,043 INFO  [Log] purchesing the seleted product 
+2015-05-31 11:05:34,809 INFO  [Log] proceedToCheckOutInSummaryPage 
+2015-05-31 11:05:38,309 INFO  [Log] proceedToCheckOutInAddressDetailPage 
+2015-05-31 11:05:40,262 INFO  [Log] proceedTOCheckOutConfirmShippingPage 
+2015-05-31 11:05:40,544 INFO  [Log] payByCheque 
+2015-05-31 11:05:43,856 INFO  [Log] iConfirmMyOrder 
+2015-05-31 11:05:46,887 INFO  [Log] Clicking on SignOut button 
+2015-05-31 11:05:46,887 INFO  [Log] PurcheseActio perform successfully 
+2015-05-31 11:05:47,235 INFO  [Log] clickOnLogo element is found 
+2015-05-31 11:05:52,463 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-31 11:05:56,182 INFO  [Log] sendToAFriend element is found 
+2015-05-31 11:05:56,448 INFO  [Log] friendName is found 
+2015-05-31 11:05:56,666 INFO  [Log] friendEmail element is found 
+2015-05-31 11:05:56,994 INFO  [Log] cancel element is found 
+2015-05-31 11:05:57,526 INFO  [Log] Increasing the product quantity 
+2015-05-31 11:05:57,729 INFO  [Log] Increasing the product quantity 
+2015-05-31 11:05:57,729 INFO  [Log] increaseQuantity element is found 
+2015-05-31 11:05:57,948 INFO  [Log] Decreasing the product quantity 
+2015-05-31 11:05:57,948 INFO  [Log] decreaseQuantity element is found 
+2015-05-31 11:05:58,401 INFO  [Log] dropDownField element is found 
+2015-05-31 11:05:58,635 INFO  [Log] addToCart element is found 
+2015-05-31 11:05:59,573 INFO  [Log] proceedToChekOutInProductDetailPage element is found 
+2015-05-31 11:06:01,370 INFO  [Log] proceedToCheckOutInSummaryPage element found 
+2015-05-31 11:06:03,682 INFO  [Log] enterEmail element found 
+2015-05-31 11:06:03,916 INFO  [Log] enterPassword element found 
+2015-05-31 11:06:06,073 INFO  [Log] signin_button element is found 
+2015-05-31 11:06:07,588 INFO  [Log] proceedToCheckOutInAddressDetailPage element is found 
+2015-05-31 11:06:07,838 INFO  [Log] agreeTermsOfServices element found 
+2015-05-31 11:06:09,620 INFO  [Log] proceedTOCheckOutConfirmShippingPage element is found 
+2015-05-31 11:06:09,885 INFO  [Log] payByCheque element is found 
+2015-05-31 11:06:13,266 INFO  [Log] iConfirmMyOrder element is found 
+2015-05-31 11:06:13,266 INFO  [Log] Order complete successfully 
+2015-05-31 11:06:13,266 INFO  [Log] PurcheseFormHomePageAction done successfully 
+2015-05-31 11:06:13,525 INFO  [Log] clickOnLogo element is found 
+2015-05-31 11:06:16,712 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-31 11:06:17,666 INFO  [Log] Continue Shopping 
+2015-05-31 11:06:18,275 INFO  [Log] Selecting a product form home page and moving to detail about the product 
+2015-05-31 11:06:19,119 INFO  [Log] Continue Shopping 
+2015-05-31 11:06:20,244 INFO  [Log] Selected product titiel is------> Faded Short Sleeve T-shirts 
+2015-05-31 11:06:20,244 INFO  [Log] Product title in cart------>Faded Short Sleeve T-shirts 
+2015-05-31 11:06:20,244 INFO  [Log] product Title Matches 
+2015-05-31 11:06:20,244 INFO  [Log] Comparision of title is done successfully 
+2015-05-31 11:06:20,384 INFO  [Log] The prices of individual item is --->16.51 
+2015-05-31 11:06:20,478 INFO  [Log] The prices of individual item is --->27.0 
+2015-05-31 11:06:20,478 INFO  [Log] totalPrice is -->43.510002 
+2015-05-31 11:06:20,482 INFO  [Log] The expected price is-->45.51 
+2015-05-31 11:06:20,622 INFO  [Log] The Actual price is-->45.51 
+2015-05-31 11:06:20,622 INFO  [Log] The summation of price is done correctly 
+2015-05-31 11:06:20,622 INFO  [Log] **************************************************************************************** 
+2015-05-31 11:06:20,622 INFO  [Log] **************************************************************************************** 
+2015-05-31 11:06:20,622 INFO  [Log] $$$$$$$$$$$$$$$$$$             E------N------D                $$$$$$$$$$$$$$$$$$$ 
+2015-05-31 11:06:20,622 INFO  [Log] **************************************************************************************** 
+2015-05-31 11:06:20,622 INFO  [Log] **************************************************************************************** 
+2015-05-31 11:06:20,622 INFO  [Log] SelectedItemOnCartAction done successfully 
+2015-05-31 11:06:22,919 INFO  [Log] Clicking on Contact us link 
+2015-05-31 11:06:23,669 INFO  [Log] Selecting value from Drop Down 
+2015-05-31 11:06:23,904 INFO  [Log] Sending values to email 
+2015-05-31 11:06:54,077 INFO  [Log] Order Id does not found 
+2015-05-31 11:06:54,405 INFO  [Log] Message area found 
+2015-05-31 11:06:56,390 INFO  [Log] Submit button found 
+2015-05-31 11:06:56,390 INFO  [Log] Contact Details had been submitted successfully 
+2015-05-31 11:06:57,937 INFO  [Log] Closing the browser 
+2015-05-31 15:48:34,022 INFO  [Log] Opening browser is not happening 
